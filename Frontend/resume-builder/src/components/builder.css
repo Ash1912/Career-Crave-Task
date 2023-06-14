@@ -27,6 +27,8 @@
 
 .secondhalf {
     display: flex;
+    align-items: center;
+    margin: auto 0;
     flex-wrap: nowrap;
     flex-direction: row;
     justify-content: space-between;
