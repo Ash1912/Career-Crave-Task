@@ -13,7 +13,7 @@ import Switch from "react-switch";
 import "react-tippy/dist/tippy.css";
 //Import the react-tippy CSS
 
-import "./builder.css";
+import "./ResumeSectionView.css";
 
 import { Tooltip } from "react-tippy";
 
