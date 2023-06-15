@@ -35,7 +35,9 @@
 }
 
 .edit-container {
-    margin: auto 1.5em;
+    position: relative;
+    margin: 0.25em auto 0 auto;
+    left: 710px;
 }
 
 .edit {

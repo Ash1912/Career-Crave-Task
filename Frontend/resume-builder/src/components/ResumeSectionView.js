@@ -185,7 +185,7 @@ const ResumeSectionView = () => {
     <div className="main_content">
       <div className="container">
         <div className="header-text">
-          <p>Select your sections</p>
+          <p text="center">Select your sections</p>
         </div>
       </div>
       <DragDropContext onDragEnd={onDragEnd}>
